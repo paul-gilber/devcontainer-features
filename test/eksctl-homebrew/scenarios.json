@@ -1,0 +1,14 @@
+{
+    "debian": {
+        "image": "mcr.microsoft.com/devcontainers/base:debian",
+        "features": {
+            "eksctl-homebrew": {}
+        }
+    },
+    "ubuntu": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "eksctl-homebrew": {}
+        }
+    }
+}

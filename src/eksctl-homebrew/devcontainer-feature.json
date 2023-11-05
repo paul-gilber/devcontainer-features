@@ -1,0 +1,20 @@
+{
+    "id": "eksctl-homebrew",
+    "version": "1.0.0",
+    "name": "Amazon EKS - eksctl (via Homebrew)",
+    "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/eksctl-homebrew",
+    "description": "Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that eliminates the need to install, operate, and maintain your own Kubernetes control plane on Amazon Web Services (AWS)",
+    "options": {
+        "version": {
+            "default": "latest",
+            "description": "Select the version to install.",
+            "proposals": [
+                "latest"
+            ],
+            "type": "string"
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers-contrib/features/homebrew-package"
+    ]
+}
