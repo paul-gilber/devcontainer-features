@@ -15,6 +15,7 @@ jobs:
         features:
           - color
           - hello
+          - eksctl-homebrew
           - openshift-cli-homebrew
         baseImage:
           - debian:latest
