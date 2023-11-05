@@ -2,7 +2,7 @@
     "id": "openshift-cli-homebrew",
     "version": "1.0.0",
     "name": "OpenShift CLI (via Homebrew)",
-    "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/openshift-cli-homebrew",
+    "documentationURL": "https://github.com/paul-gilber/devcontainer-features/tree/main/src/openshift-cli-homebrew",
     "description": "OpenShift is a unified platform to build, modernize, and deploy applications at scale",
     "options": {
         "version": {
