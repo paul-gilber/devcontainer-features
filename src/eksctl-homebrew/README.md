@@ -1,7 +1,7 @@
 
-# OpenShift CLI (via Homebrew) (eksctl-homebrew)
+# Amazon EKS - eksctl (via Homebrew) (eksctl-homebrew)
 
-OpenShift is a unified platform to build, modernize, and deploy applications at scale
+Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that eliminates the need to install, operate, and maintain your own Kubernetes control plane on Amazon Web Services (AWS)
 
 ## Example Usage
 
