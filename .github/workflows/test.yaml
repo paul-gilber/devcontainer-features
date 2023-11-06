@@ -15,6 +15,7 @@ jobs:
         features:
           - color
           - hello
+          - jinja2-cli-homebrew
           - eksctl-homebrew
           - openshift-cli-homebrew
         baseImage:

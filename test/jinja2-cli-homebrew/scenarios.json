@@ -1,0 +1,14 @@
+{
+    "debian": {
+        "image": "mcr.microsoft.com/devcontainers/base:debian",
+        "features": {
+            "jinja2-cli-homebrew": {}
+        }
+    },
+    "ubuntu": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "jinja2-cli-homebrew": {}
+        }
+    }
+}
