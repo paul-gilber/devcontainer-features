@@ -15,6 +15,6 @@
         }
     },
     "installsAfter": [
-        "ghcr.io/devcontainers-contrib/features/homebrew-package:1"
+        "ghcr.io/devcontainers-contrib/features/homebrew-package"
     ]
 }

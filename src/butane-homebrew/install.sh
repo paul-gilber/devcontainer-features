@@ -15,7 +15,7 @@ ensure_nanolayer nanolayer_location "v0.4.39"
 $nanolayer_location \
     install \
     devcontainer-feature \
-    "ghcr.io/devcontainers-contrib/features/homebrew-package:1" \
+    "ghcr.io/devcontainers-contrib/features/homebrew-package" \
     --option package='butane' --option version="$VERSION"
 
 
