@@ -1,7 +1,7 @@
 
-# OpenShift CLI (via Homebrew) (jinja2-cli-homebrew)
+# Jinja2 CLI (via Homebrew) (jinja2-cli-homebrew)
 
-OpenShift is a unified platform to build, modernize, and deploy applications at scale
+Jinja2 is a full-featured template engine for Python. It has full unicode support, an optional integrated sandboxed execution environment, widely used and BSD licensed
 
 ## Example Usage
 

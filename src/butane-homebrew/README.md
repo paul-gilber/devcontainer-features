@@ -1,7 +1,7 @@
 
-# OpenShift CLI (via Homebrew) (butane-homebrew)
+# Butane (via Homebrew) (butane-homebrew)
 
-OpenShift is a unified platform to build, modernize, and deploy applications at scale
+Butane (formerly the Fedora CoreOS Config Transpiler, FCCT) translates human readable Butane Configs into machine readable Ignition Configs
 
 ## Example Usage
 
