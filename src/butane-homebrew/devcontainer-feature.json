@@ -1,0 +1,20 @@
+{
+    "id": "butane-homebrew",
+    "version": "1.0.0",
+    "name": "Butane (via Homebrew)",
+    "documentationURL": "https://github.com/paul-gilber/devcontainer-features/tree/main/src/butane-homebrew",
+    "description": "Butane (formerly the Fedora CoreOS Config Transpiler, FCCT) translates human readable Butane Configs into machine readable Ignition Configs",
+    "options": {
+        "version": {
+            "default": "latest",
+            "description": "Select the version to install.",
+            "proposals": [
+                "latest"
+            ],
+            "type": "string"
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers-contrib/features/homebrew-package:1"
+    ]
+}

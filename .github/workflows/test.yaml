@@ -13,8 +13,7 @@ jobs:
     strategy:
       matrix:
         features:
-          - color
-          - hello
+          - butane-homebrew
           - jinja2-cli-homebrew
           - eksctl-homebrew
           - openshift-cli-homebrew

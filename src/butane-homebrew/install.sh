@@ -16,7 +16,7 @@ $nanolayer_location \
     install \
     devcontainer-feature \
     "ghcr.io/devcontainers-contrib/features/homebrew-package:1" \
-    --option package='eksctl' --option version="$VERSION"
+    --option package='butane' --option version="$VERSION"
 
 
 echo 'Done!'
