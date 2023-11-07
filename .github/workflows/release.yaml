@@ -2,6 +2,11 @@ name: "Release dev container features & Generate Documentation"
 on:
   workflow_dispatch:
 
+# Run a single job at a time: https://docs.github.com/en/actions/using-jobs/using-concurrency
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   deploy:
     if: ${{ github.ref == 'refs/heads/main' }}
