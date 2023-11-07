@@ -13,6 +13,7 @@ jobs:
     strategy:
       matrix:
         features:
+          - buildah-apt-get
           - butane-homebrew
           - jinja2-cli-homebrew
           - eksctl-homebrew

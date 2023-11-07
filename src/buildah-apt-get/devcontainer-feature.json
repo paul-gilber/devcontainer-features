@@ -1,0 +1,11 @@
+{
+    "id": "buildah-apt-get",
+    "version": "1.0.0",
+    "name": "Buildah (via apt-get)",
+    "documentationURL": "https://github.com/paul-gilber/devcontainer-features/tree/main/src/buildah-apt-get",
+    "description": "Buildah is a tool that facilitates building Open Container Initiative (OCI) container images",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers-contrib/features/apt-get-packages"
+    ]
+}
