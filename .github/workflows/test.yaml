@@ -38,8 +38,11 @@ jobs:
     strategy:
       matrix:
         features:
-          - color
-          - hello
+          - buildah-apt-get
+          - butane-homebrew
+          - jinja2-cli-homebrew
+          - eksctl-homebrew
+          - openshift-cli-homebrew
     steps:
       - uses: actions/checkout@v3
 
