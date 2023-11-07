@@ -4,6 +4,7 @@
 ## Features
 | Name                                                    | Description                                 |
 |---------------------------------------------------------|---------------------------------------------|
+| [buildah-apt-get](./src/buildah-apt-get/)               | Installs Buildah (via apt-get)              |
 | [butane-homebrew](./src/butane-homebrew/)               | Installs Butane (via Homebrew)              |
 | [eksctl-homebrew](./src/eksctl-homebrew/)               | Installs Amazon EKS - eksctl (via Homebrew) |
 | [jinja2-cli-homebrew](./src/jinja2-cli-homebrew/)       | Installs Jinja2 CLI (via Homebrew)          |
