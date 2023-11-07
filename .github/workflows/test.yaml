@@ -3,7 +3,11 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - '**.md'
   pull_request:
+    paths-ignore:
+      - '**.md'
   workflow_dispatch:
 
 # Run a single job at a time: https://docs.github.com/en/actions/using-jobs/using-concurrency
