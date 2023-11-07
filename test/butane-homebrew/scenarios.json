@@ -1,12 +1,6 @@
 {
-    "debian": {
+    "test": {
         "image": "mcr.microsoft.com/devcontainers/base:debian",
-        "features": {
-            "butane-homebrew": {}
-        }
-    },
-    "ubuntu": {
-        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
         "features": {
             "butane-homebrew": {}
         }

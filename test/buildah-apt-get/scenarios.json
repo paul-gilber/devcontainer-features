@@ -1,12 +1,6 @@
 {
-    "debian": {
+    "test": {
         "image": "mcr.microsoft.com/devcontainers/base:debian",
-        "features": {
-            "buildah-apt-get": {}
-        }
-    },
-    "ubuntu": {
-        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
         "features": {
             "buildah-apt-get": {}
         }
