@@ -27,6 +27,7 @@ jobs:
           - jinja2-cli-homebrew
           - eksctl-homebrew
           - openshift-cli-homebrew
+          - yamllint-homebrew
         baseImage:
           - debian:latest
           - ubuntu:latest
@@ -51,6 +52,7 @@ jobs:
           - jinja2-cli-homebrew
           - eksctl-homebrew
           - openshift-cli-homebrew
+          - yamllint-homebrew
     steps:
       - uses: actions/checkout@v3
 
