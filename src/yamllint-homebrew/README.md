@@ -1,7 +1,7 @@
 
-# yamllint (via Homebrew) (yamllint-homebrew)
+# Yamllint (via Homebrew) (yamllint-homebrew)
 
-yamllint (formerly the Fedora CoreOS Config Transpiler, FCCT) translates human readable yamllint Configs into machine readable Ignition Configs
+Yamllint is a linter for YAML files
 
 ## Example Usage
 
