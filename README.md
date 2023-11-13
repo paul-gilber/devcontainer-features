@@ -9,6 +9,7 @@
 | [eksctl-homebrew](./src/eksctl-homebrew/)               | Installs Amazon EKS - eksctl (via Homebrew) |
 | [jinja2-cli-homebrew](./src/jinja2-cli-homebrew/)       | Installs Jinja2 CLI (via Homebrew)          |
 | [openshift-cli-homebrew](./src/openshift-cli-homebrew/) | Installs OpenShift CLI (via Homebrew)       |
+| [yamllint-homebrew](./src/yamllint-homebrew/)           | Installs Yamllint (via Homebrew)            |
 
 Need a feature?
 Send feature request [here](https://github.com/paul-gilber/devcontainer-features/issues)
